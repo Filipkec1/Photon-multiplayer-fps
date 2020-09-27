@@ -1,0 +1,1 @@
+Za pokretanje pokrentui iz "TESTBUILD" foldera.
